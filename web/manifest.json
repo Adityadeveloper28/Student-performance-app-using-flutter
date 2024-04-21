@@ -1,6 +1,6 @@
 {
-    "name": "untitled2",
-    "short_name": "untitled2",
+    "name": "studentperformanceapp",
+    "short_name": "studentperformanceapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
